@@ -15,6 +15,6 @@ Gravando alteracoes no repositorio Local | [Resumos]()
 
 
 ```
-git init 
+git init teste
 ```
 ## 🔎 Referências
